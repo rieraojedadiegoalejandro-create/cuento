@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8cd6205f2b14e4c",
+  "active": "964fbe318cbee497",
   "lastOpenFiles": [
     "Paso1/Una mano ena cabeza.md",
     "README.md",
