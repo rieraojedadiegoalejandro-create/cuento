@@ -1,6 +1,6 @@
 ### ESENCIA Y ARCO
 
-· Concepto de una línea:
+· Concepto de una línea: sanguijuela que acompaña al protagonista en su viaje 
 
 · Rol en la historia:
 
