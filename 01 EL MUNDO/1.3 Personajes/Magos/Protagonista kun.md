@@ -49,9 +49,11 @@ eso cambió cuando una tarde en la que lo enviaron a buscar leña, una tormenta 
 
 ### MAPA DE RELACIONES 
 [[La chama que roba]] compañera de viaje
-[[Amigo]] compañero de viaje 
+[[Amigo]] compañero de viaje/maestro
 [[Oscuridad-ultimo mago oscuro]] mentor 
 [[Guardian de los archivos]] ayuda
 
 
 ### IDEAS PARA EL PERSONAJE
+
+Ya que su magia no sirve para el combate x a lo largo de la historia va consiguiendo diferentes armas, primero normales, luego mágicas 
