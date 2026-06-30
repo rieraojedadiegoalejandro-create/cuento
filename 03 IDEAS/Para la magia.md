@@ -16,3 +16,5 @@ Habilidades
 Teletransportación 
 Camuflaje
 Absorción de luz 
+
+Solo la magia de oscuridad tiene teletransportación, con la desventaja de que si la usas mucho envejeces, los que la habían llegado a ver pensaban que envegecias porque si, 
