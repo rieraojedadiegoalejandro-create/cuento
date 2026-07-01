@@ -1,0 +1,1 @@
+Magia en etapa experimental, creada por su único usuario momia, habilidades propensas a fallar o lastimar al propio usuario

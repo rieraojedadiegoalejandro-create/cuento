@@ -2,4 +2,4 @@ El consejo de los magos se creó para que en caso de una amenazada, su fuerza co
 
 Esa amenaza fue el anterior mago de oscuridad? 
 Un monstruo? 
-7
+_los_ magos de la oscuridad?
