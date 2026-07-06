@@ -32,30 +32,30 @@ Apenas logra escapar vivo del lugar y ahora sabe que los de su tipo son odiados 
 
 En su camino escapando se encuentra con el monasterio de sanguijuelas, un lugar donde las sanguijuelas se dedican a refinar todas las habilidades posibles aprovechando su larga vida 
 
-Ahí espera encontrar quien lo ayude a leer su libro, no lo consigue pero descubre donde si, y conoce a su segundo aliado, una sanguijuela experta en combate 
+Ahí espera encontrar quien lo ayude a leer su libro, no lo consigue y uno de los magos animales que vió a amiga fuera del país de los magos la vuelve a ver ahora, no puede ser tanta coincidencia, los ataca y termina lastimando gravemente a amiga 
 
-Su nuevo objetivo es un claustro de los magos de estrellas, donde se encuentra el archivo de los magos, la colección más grande de libros sobre magia, y el guardian de los archivos, una sanguijuela que por mil años ha Sido el encargado, definitivamente él sabe leer el libro
-
-Su camino continúa, protagonista kun debe viajar en la sombre de sus amigos siempre que se mueven de día, águilas gigantes patrullan los cielos 
-
-Llegan a los archivos y conocen a la sanguijuela, que accede a enseñarle a leer su libro
+En un momento de desesperación por salvar a amiga recurren al gremio planta, con quiénes terminan haciendo una alianza y descubriemdo que existe un claustro de los magos de estrellas donde está el guardian de los archivos,el encargado de organizar todo el conocimiento mágico 
 
 PUNTO MEDIO
 
-Protagonista kun tiene su rutina de cada noche infiltrarse para seguir aprendiendo con el guardian, está seguro de poder terminar su aprendizaje hasta que en un momento por error se consigue un mago de estrellas a la salida, para evitar que lo delate y de la alarma lo asesina
+Protagonista kun tiene su rutina de cada noche infiltrarse para seguir aprendiendo con el guardian, está seguro de poder terminar su aprendizaje 
+
+El guardian de los archivos le tiende una trampa para que en su salida se consiga con un mago de estrellas y deba matarlo para no que no de la alarma, pero más magos despiertan y debe huir del sitio
 
 Ahora se sabe que estuvo ahí, queman todos los archivos sobre magia de oscuridad y empiezan una cacería aún mas intensa para encontrarlo 
 
+
+
+Protagonista kun entiende que no puede solo seguir escapando por siempre, piensa en un plan para 
 **SEGUNDO PUNTO DE PRESIÓN** 
 
-uno de los magos animales que vió a amiga fuera del país de los magos la vuelve a ver ahora cerca del archivo central, no puede ser tanta coincidencia, los ataca y termina lastimando gravemente a amiga 
-
-En un momento de desesperación por salvar a amiga recurren al gremio planta, con quiénes terminan haciendo una alianza 
+ 
 
 
-6 Segundo Giro Clímax Se resuelve el conflicto principal
+ SEGUNDO GIRO 
 
 
-7 Resolución Nuevo orden Se muestra el cambio del personaje y cierre
+
+RESOLUCIÓN
 
 Los demás magos entienden que una guerra contra el mago de oscuridad es algo que no pueden ganar y que no les conviene, deciden dejarlo en paz, pero con un resentimiento latente que explotara en _el señor de la noche 2:más nocturno que nunca_ 
