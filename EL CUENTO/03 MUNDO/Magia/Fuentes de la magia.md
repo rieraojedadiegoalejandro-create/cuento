@@ -16,6 +16,8 @@
 Posibles 
 1. Magnetismo
 2. Nuclear 
+3. Química 
+4. Gravedad 
 
 ## Agua
 Expertos artistas marciales, usan su magia para moldear su cuerpo y volverse líquidos donde reciben un golpe, poder de ataque de un ser humano, pero la mayor resistencia al daño de entre todos los magos, muy difíciles de matar o siquiera lastimar
@@ -39,7 +41,7 @@ Tiene un potencial oculto para la destrucción a gran escala del que muy pocos s
 
 ## Plantas
 
-Los magos de plantas resaltan por ser los magos más longevos sin recurrir a ser [[Sanguijuelas 1]], curan partes de su cuerpo lastimadas o enfermas reemplazandolas con partes de plantas, por lo que no es extraño ver a magos de las plantas con alguna extremidad de madera, existiendo casos extremos como el de [[Plantas-Qin]], cuyo exterior ya es completamente de madera y plantas, y lleva 307 años vivo
+Los magos de plantas resaltan por ser los magos más longevos sin recurrir a ser  curan partes de su cuerpo lastimadas o enfermas reemplazandolas con partes de plantas, por lo que no es extraño ver a magos de las plantas con alguna extremidad de madera, existiendo casos extremos como el de [[Plantas-Qin]], cuyo exterior ya es completamente de madera y plantas, y lleva 307 años vivo
 ## Sol
 
 
@@ -55,5 +57,6 @@ Carecen de habilidades que puedan hacer daño en área, dependiendo principalmen
 
 Tienen una rivalidad constante con los magos de fuego,por considerarse los usuarios de energia termina superiores
 ## Tierra
+Su poder proviene de los movimientos tectónicos de la corteza terrestre, sus ataques son continentes y poderosos y pueden imitar eventos sísmicos a escala reducida
 ## Viento
 

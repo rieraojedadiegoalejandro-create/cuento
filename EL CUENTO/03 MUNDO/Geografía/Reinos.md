@@ -53,7 +53,7 @@
 
 ### CULTURA Y SOCIEDAD
 
-· Costumbres y tradiciones: (ej. Hospitalidad tribal, duelos de poesía)
+· Costumbres y tradiciones: es común que las personas huérfanas sin apellido que tomar tengan todas el mismo apellido 
 · Arte y arquitectura: (ej. Azulejos, cúpulas, caligrafía, prohibición de imágenes)
 · Sistema educativo: (Madrazas, academias de magia, tradición oral)
 · Cocina típica:

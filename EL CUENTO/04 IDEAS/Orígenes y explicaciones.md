@@ -52,10 +52,15 @@ Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de
 - (ideas)
 
 ## Para personajes
-- (ideas)
+- las 5 sanguijuelas que dominan al mundo son el guardian de los archivos, el emperador del sol, 
+- 
 
 ## Situaciones concretas
 - (escenas que ya veré dónde poner)
 
 ## Temas
 - (temas principales de la historia)
+## Por si hay segundo libro
+Enemigo del primer libro: el reino del sol
+Enemigo del segundo libro: las 5 sanguijuelas 
+Enemigo del tercer libro: los magos científicos y sus nuevas magias peligrosas

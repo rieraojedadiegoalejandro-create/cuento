@@ -16,4 +16,4 @@
 - [[Reglas y limitaciones]]
 
 ## Sanguijuelas 
-- [[Sanguijuelas 1]]
+- [[Sanguijuelas]]
