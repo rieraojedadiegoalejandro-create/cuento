@@ -1,10 +1,4 @@
-# (Nombre del gremio)
-
-**Etiquetas**: #gremio #organización
-
----
-
-##  Datos básicos
+### Datos básicos
 - **Nombre completo**:
 - **Nombre común**:
 - **Fuente mágica asociada**: (si aplica)
@@ -16,90 +10,88 @@
 
 ---
 
-## Descripción general
+#### Descripción general
 (Resumen de qué es el gremio, su propósito principal y su papel en el mundo. 1-3 párrafos.)
 
 ---
 
-##  Cultura y costumbres
+### Cultura y costumbres
 
-### Valores y filosofía
+#### Valores y filosofía
 - (ej: "El conocimiento es poder", "La lealtad ante todo")
 
-### Rituales y ceremonias
+#### Rituales y ceremonias
 - (ej: ceremonias de iniciación, festivales, ofrendas)
 
-### Código de conducta
+#### Código de conducta
 - (reglas internas, prohibiciones, obligaciones)
 
-### Vestimenta y símbolos
+#### Vestimenta y símbolos
 - **Símbolo del gremio**: (descripción del emblema)
 - **Vestimenta formal**: (cómo visten en ocasiones importantes)
 - **Marcas distintivas**: (tatuajes, joyas, colores)
 
-### Relaciones con otros gremios
+#### Relaciones con otros gremios
 - **Aliados**:
 - **Rivales**:
 - **Enemigos**:
 
 ---
 
-##  Propósito y funciones
+### Propósito y funciones
 
-### Objetivos principales
+#### Objetivos principales
 - (qué buscan conseguir a largo plazo)
 
-### Servicios que ofrecen
+#### Servicios que ofrecen
 - (qué aportan al mundo: entrenamiento, artefactos, protección, información...)
 
-### Actividades cotidianas
+#### Actividades cotidianas
 - (qué hacen sus miembros en el día a día)
 
-### Misiones o tareas típicas
+#### Misiones o tareas típicas
 - (qué encargos o misiones realizan)
 
 ---
 
-## Sede y territorios
+### Sede y territorios
 
-### Sede central
+#### Sede central
 - **Ubicación**:
 - **Descripción arquitectónica**:
 - **Características especiales**: (defensas mágicas, bibliotecas, zonas prohibidas)
 
-### Sedes secundarias
+#### Sedes secundarias
 - (lista de otras ubicaciones y su propósito)
 
-### Territorios bajo influencia
+#### Territorios bajo influencia
 - (regiones donde tienen poder o presencia)
 
 ---
 
-## Historia
+### Historia
 
-### Fundación
+#### Fundación
 - (cómo y por qué se creó)
 
-### Eventos clave
+#### Eventos clave
 - (guerras, crisis, descubrimientos, divisiones)
 
-### Estado actual
+#### Estado actual
 - (¿en auge, decadencia, conflicto interno?)
 
 ---
 
-## En la trama
+### En la trama
 
-### Rol en la historia
+#### Rol en la historia
 - (¿aliado, antagonista, neutral, recurso?)
 
-### Conexiones con otros elementos
+#### Conexiones con otros elementos
 - (ej: poseen un artefacto clave, su líder tiene un secreto)
 
-### Posibles conflictos internos
+#### Posibles conflictos internos
 - (facciones, traiciones, dilemas)
 
-### Notas de desarrollo
+#### Notas de desarrollo
 - (cosas aún por decidir sobre este gremio)
-
----
