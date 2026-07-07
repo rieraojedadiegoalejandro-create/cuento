@@ -9,3 +9,5 @@ Arma con forma de hacha, con planchas de metal en lugar de los filos, utilizadas
 ## Mazo de madera
 Baston de madera de 50cm de largo con una gruesa bola de madera en la punta, al canalizar energía mágica a través de él las puas que haya perdido vuelven a crecer
 
+## Estoque de viento
+Espada larga y delgada diseñada para convertir la magia de viento en un arma letal, la hoja tiene un interior hueco por el que el mago de viento puede hacer entrar aire al cuerpo de su enemigo y hacerlo explotar
