@@ -1,0 +1,1 @@
+Si bien cualquier persona puede llegar a ser mago, hay algunos que tienen mayor o menor afinidad a usar los flujos de energía, por lo que solo se entrena a los más capaces 
