@@ -8,7 +8,7 @@ Existe una separación de poderes muy importante, y la razón principal por la q
 ## Gremio de Fuego
 
 ### Datos básicos
-- **Nombre completo**:
+- **Nombre completo**: talleres de fuego 
 - **Nombre común**:
 - **Fuente mágica asociada**: (si aplica)
 - **Fundación**: (año o época)
@@ -20,9 +20,13 @@ Existe una separación de poderes muy importante, y la razón principal por la q
 ---
 
 #### Descripción general
-(Resumen de qué es el gremio, su propósito principal y su papel en el mundo. 1-3 párrafos.)
 
----
+Los magos del fuego se organizan en talleres donde dedican sus días a tanto a forjar armas como a inventar nuevos artefactos que les permitan usar su magia para distintos fines 
+
+Su líder es conocido como el inventor en jefe, y es el encargado de dirigir la producción y aprobar los nuevos inventos
+
+ Gran parte de sus ingresos provienen de vender armas y artefactos a los reinos 
+___
 
 ### Cultura y costumbres
 
@@ -104,6 +108,7 @@ Existe una separación de poderes muy importante, y la razón principal por la q
 
 #### Notas de desarrollo
 - (cosas aún por decidir sobre este gremio)
+- 
 ## Gremio de Agua
 
 ### Datos básicos
