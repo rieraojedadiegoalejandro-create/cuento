@@ -1,0 +1,1 @@
+La mitad del planeta sintió un estruendo, la mitad en la que era de noche, los magos más fuertes de todo el mundo lo notaron primero, luego los aprendices aunque no fueron capaces de decir que pasaba, sentían que algo no estaba bien. Uno de los torrentes de energía se había roto, había dejado de existir una de las conecciones mágicas del mundo, 

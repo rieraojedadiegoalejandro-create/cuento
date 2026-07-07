@@ -1,6 +1,6 @@
 ## Escritos 
 ## En proceso 
-[[01]]
+[[Capitulo 1]]
 [[02]]
 ## Pendientes 
 ## Escenas sueltas 
