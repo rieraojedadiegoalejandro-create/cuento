@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
+                "file": "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reglas y limitaciones"
+              "title": "Fuentes de la magia"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "4e44b769e0a77a49",
   "lastOpenFiles": [
+    "EL CUENTO/03 MUNDO/Magia/Reglas y limitaciones.md",
     "EL CUENTO/03 MUNDO/Magia/Sanguijuelas.md",
     "EL CUENTO/03 MUNDO/Magia/Fuentes de la magia.md",
     "EL CUENTO/04 IDEAS/Orígenes y explicaciones.md",
@@ -194,7 +195,6 @@
     "Z/03 IDEAS/Para objetos.md",
     "Z/03 IDEAS/Para los magos.md",
     "Z/03 IDEAS/Para la trama.md",
-    "Z/03 IDEAS/Para la magia.md",
     "01 - MANUSCRITO",
     "EL CUENTO/03 MUNDO/Personajes",
     "EL CUENTO/03 MUNDO/Geografía",

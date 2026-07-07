@@ -35,10 +35,10 @@ Magia con alto poder destructivos, pero con poco control, estos magos además de
 
 Se especializan en magia de tipo sensorial, las diferentes etapas de la luna les permiten ver diferentes planos de la existencia, especialmente útiles para detectar la presencia de otros magos así como rastros de magia en objetos, su magia no tiene ningúna capacidad ofensiva, su magia se emisión les permite crear ilusiones
 ## Oscuridad
-Existe como opuesto de la magia del sol, en algún punto de la historia sus usuarios fueron muy temidos por su gran capacidad de para el sigilo y el asesinato, aparecen y desaparecen sin dejar rastro.
+Magia que vincula al usuario con la naturaleza de las sombras y la oscuridad, dado que la oscuridad no es una propiedad física está magia no es capaz de crear objetos sólidos ni ataques de ningún tipo, y solo sirve para efectos de movimiento o camuflaje 
 
-Tiene un potencial oculto para la destrucción a gran escala del que muy pocos saben, y es la razón principal de que se llevara a la extinción a los magos de oscuridad 
-
+El poder de esta magia no está ligado a la 
+Oscuridad en si misma, se alimenta de la dimensión oscura, a la cual un mago de oscuridad ™ avanzado es capaz de acceder por completo y moverse libremente dentro de ella
 ## Plantas
 
 Los magos de plantas resaltan por ser los magos más longevos sin recurrir a ser  curan partes de su cuerpo lastimadas o enfermas reemplazandolas con partes de plantas, por lo que no es extraño ver a magos de las plantas con alguna extremidad de madera, existiendo casos extremos como el de [[Plantas-Qin]], cuyo exterior ya es completamente de madera y plantas, y lleva 307 años vivo
