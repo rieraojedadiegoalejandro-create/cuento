@@ -1,8 +1,5 @@
 
 
-Existe como opuesto de la magia del sol, en algún punto de la historia sus usuarios fueron muy temidos por su gran capacidad de para el sigilo y el asesinato, aparecen y desaparecen sin dejar rastro.
-
-Tiene un potencial oculto para la destrucción a gran escala del que muy pocos saben, y es la razón principal de que se llevara a la extinción a los magos de oscuridad 
 
 **HABILIDADES** 
 
