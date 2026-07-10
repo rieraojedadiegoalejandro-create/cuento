@@ -2,25 +2,14 @@
 Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los más poderosos lo sintieron primero, acababa de ocurrir un desbalance en el equilibrio del poder, uno de los torrentes de energía había desaparecido para siempre...al menos eso fue lo que pensaron
 
 ## Para la magia
-funcionamiento
- 
 
-
-Los magos de luna pueden ver la dimension sin tiempo durante ciertas fases de la luna
 
 La verdadera fuente de poder de la magia de oscuridad es un agujero negro
  
 
-En algún momento existirán los magos nucleares
+En algún momento existirán los magos nucleares 
 
-La magia de oscuridad no tiene ataques, es una magia ambiental, afecta sus alrededores, pero no es capaz de lastimar, así que el protagonista necesita herramientas mágicas 
-
-Habilidades 
-Teletransportación 
-Camuflaje
-Absorción de luz 
-
-Solo la magia de oscuridad tiene teletransportación, con la desventaja de que si la usas mucho envejeces, los que la habían llegado a ver pensaban que envegecias porque si, 
+Tengo que inventar un método para cambiar la naturaleza de tu magia, pa poder decir que el viejo se cambió de bando(ayy vale)
 
 ## Para la trama
 No darle al protagonista lo que quiere sino lo que necesita
@@ -44,6 +33,9 @@ ___
 Los magos de sombra eran una organización de asesinos a sueldo que en un punto fueron contratados por alguien que quería eliminar a los magos, fueron poco a poco asesinando más magos de cada facción hasta que se descubrió que eran ellos, en ese momento se creó el concejo central de magos para luchar todos unidos contra ellos, surgió la idea de que la magia de oscuridad corrompe, de que la fuente de su poder es  _el señor oscuro_ pero realmente no, eran unos cabrones y ya, el protagonista tiene la tentación y piensa también que es el señor oscuro corrompiendolo, luego acepta que no hay ningún señor oscuro, pero está cansado de que todos estén en su contra 
 ___
 Los magos de tierra que viven en cuevas y minas le venden carbón a los magos de fuego 
+
+___
+Los magos de animales también aprenden a imitar habilidades de sus animales sin necesidad de transformarse, algunos tienen estanques con salamandras que se regeneran y aprender a regenerar partes de su cuerpo 
 
 ## Para países
 - (ideas)
