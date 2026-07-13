@@ -3,6 +3,8 @@ Una sacudida se sintió en la mitad del mundo, la mitad que estaba de noche, los
 
 ## Para la magia
 
+Los magos del magnetismo pueden encontrar metales, como afecta esto a la economía y a la formación de los reinos 
+
 En la dimensión de oscuridad no existe el sonido.
 
 Existen criaturas mágicas, hay hadas del bosque que viven en las copas de los árboles 
